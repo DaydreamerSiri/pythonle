@@ -1,6 +1,5 @@
 from uhrzeit import time
 from creatures import Creatures
-import world
 
 class Game(object):
     """dauerhaftes Input fuer das spiel"""
